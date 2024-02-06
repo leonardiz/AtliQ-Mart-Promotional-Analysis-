@@ -8,6 +8,15 @@ use atliq_mart;
 -- Create Tables
 -- Imported the tables from excel: dim_campaigns, dim_products, dim_stores and fact_events
 
+select * from dim_campaigns;
+
+select * from dim_products;
+
+select * from dim_stores;
+
+select * from fact_events;
+
+
 -- Answering the Business Requests. 
 
 -- 1. Provide a list of products with a base price greater than 500 and are featured in the promo type 'BOGOF' (Buy One Get One Free)
