@@ -12,6 +12,10 @@ Data Sources
 
 Data was sourced from CODE BASICS resume project challenge #9. The project utilized transaction and sales data from AtliQ Mart's massive promotion during Diwali 2023 and Sankranti 2024 campaigns. The data encompassed detailed transaction records, product category information, promotion type details, and store-specific performance metrics.
 
+TOOL USED: 
+SQL (MySQL) for data transformation and analysis.
+Tableau for data visualization.
+
 Cleaning and Transformation
 
 The dataset was obtained and in a clean state upon acquisition. Subsequently, the data underwent standardization, and transformation processes to ensure uniform analysis. The transformation process facilitated the calculation of actionable metrics such as incremental sold unit percentages (ISU%) and incremental revenue percentages (IR%) for each product category and promotion type during the campaigns.
