@@ -150,21 +150,6 @@ Extract the Total quantity sold, Total quantity sold before and after promo and 
 */
 
 select 
-	Total_Quantity_Sold,
-    Total_Quantity_Sold_Before_Promo,
-    Total_Quantity_Sold_After_Promo
-    Percentage_Increase
-from (
-	select
-		sum(`quantity_sold(before_promo)` + `quantity_sold(after_promo)`) as Total_Quantity_Sold,
-		sum(`quantity_sold(before_promo)`) as Total_Quantity_Sold_Before_Promo,
-        sum(`quantity_sold(after_promo)`) as Total_Quantity_Sold_After_Promo,
-        round(sum(`quantity_sold(after_promo)` - `quantity_sold(before_promo)`) /
-        sum(`quantity_sold(before_promo)`) * 100, 2) as Percentage_Increase
-from fact_events
-) as subquery;
-
-select 
     Total_Quantity_Sold,
     Total_Quantity_Sold_Before_Promo,
     Total_Quantity_Sold_After_Promo,
@@ -178,6 +163,7 @@ from (
               sum(`quantity_sold(before_promo)`) * 100, 2) as Percentage_Increase
     from fact_events
 ) as subquery;
+
 
 --  Store Performance Analysis-------
 
