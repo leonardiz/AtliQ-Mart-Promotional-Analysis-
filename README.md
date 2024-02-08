@@ -14,11 +14,11 @@ Data was sourced from CODE BASICS resume project challenge #9. The project utili
 
 Cleaning and Transformation
 
-The dataset was obtained, and it was in a clean state upon acquisition. Subsequently, the data underwent, standardization, and transformation processes to ensure uniform analysis.The transformation process facilitated the calculation of actionable metrics such as incremental sold unit percentages (ISU%) and incremental revenue percentages (IR%) for each product category and promotion type during the campaigns.
+The dataset was obtained and in a clean state upon acquisition. Subsequently, the data underwent standardization, and transformation processes to ensure uniform analysis. The transformation process facilitated the calculation of actionable metrics such as incremental sold unit percentages (ISU%) and incremental revenue percentages (IR%) for each product category and promotion type during the campaigns.
 
 Data Analysis:
 Top Products in 'BOGOF' Promotion:
-Identified Atliq_Double_Bedsheet_set and Atliq_waterproof_Immersion_Rod as high-value products with base prices above 500 in the 'BOGOF' promotion type.
+Identified Atliq_Double_Bedsheet_set and Atliq_waterproof_Immersion_Rod as high-value products with base prices above ₹500 in the 'BOGOF' promotion type.
 
 Store Overview by City:
 Analyzed the number of stores in each city, highlighting Bengaluru as the city with the highest store count (10 stores).
@@ -33,7 +33,7 @@ Top 5 Products by IR%:
 Identified products such as Atliq Waterproof Immersion Rod and Atliq_High_Glo_15W_LED_Bulb as top performers with the highest incremental revenue percentages.
 
 Total Revenue Across All Stores:
-Showcased an impressive total revenue of $488,561,338, emphasizing the overall success of AtliQ Mart during the analyzed period.
+Showcased an impressive total revenue of ₹488,561,338, emphasizing the overall success of AtliQ Mart during the analyzed period.
 
 Overall Revenue Impact:
 Presented a significant revenue increase of 247.23% after promotions, illustrating the effectiveness of promotional strategies.
@@ -42,14 +42,14 @@ Findings:
 Store Performance Analysis:
 
 Bengaluru and Chennai consistently dominated in revenue generation, suggesting potential strategies for other locations.
-Identified top-performing and underperforming stores based on incremental revenue and sold units.
+I identified top-performing and underperforming stores based on incremental revenue and sold units.
 Promotion Type Analysis:
 
 Cashback and BOGOF emerged as the most effective promotion types, driving substantial incremental revenue.
-25% OFF showed negative impact, requiring further evaluation or modification.
+25% OFF showed a negative impact, requiring further evaluation or modification.
 Category and Product Insights:
 
-Home Appliances demonstrated high correlation between ISU% and IR%.
+Home Appliances demonstrated a high correlation between ISU% and IR%.
 Combo1 showcased strong performance in both ISU% and IR%.
 Grocery & Staples revealed room for optimization in promotional strategies.
 
@@ -88,18 +88,18 @@ KEY BUSINESS REQUESTS TO ANSWER
 
 1. Provide a list of products with a base price greater than 500 and are featured in the promo type 'BOGOF' (Buy One Get One Free)
 
-The insights from the provided information about products with a base price greater than 500 and featured in the 'BOGOF' (Buy One Get One Free) promotion type are as follows:
+The insights from the provided information about products with a base price greater than ₹500 and featured in the 'BOGOF' (Buy One Get One Free) promotion type are as follows:
 
 Products Meeting Criteria:
 Two products, namely "Atliq_Double_Bedsheet_set with promo code (P08)" and "Atliq_waterproof_Immersion_Rod with promo code (P14)," satisfy the specified criteria.
-Both of these products have a base price exceeding 500, making them eligible for consideration in the context of the promotional type 'BOGOF.'
+Both of these products have a base price exceeding ₹500, making them eligible for consideration in the context of the promotional type 'BOGOF.'
 
 Promotion Type 'BOGOF':
 The 'BOGOF' (Buy One Get One Free) promotion type is a strategy where customers receive an additional product for free when they purchase one at the regular price.
 In this case, the specified products, the double bedsheet set, and the waterproof immersion rod, are part of this promotion, indicating a marketing strategy aimed at incentivizing customers to make purchases.
 
 Base Price Threshold:
-The criterion of a base price greater than 500 indicates a focus on higher-priced products for this particular promotion.
+The criterion of a base price greater than ₹500 indicates a focus on higher-priced products for this particular promotion.
 This pricing strategy may be intended to enhance the perceived value for customers, making the offer more attractive and encouraging them to engage in the promotion.
 
 Strategic Considerations:
@@ -155,16 +155,17 @@ Vijayawada, with two stores, reflects a modest retail environment.
 With ten stores, "Bengaluru" is the city with the highest number of stores. On the other hand, with only two stores each, "Trivandrum" and "Vijayawada" have the fewest.
 
 
-3. Generate report that displays each campaign along with total revenue generated before and after the campaign. 
+3. Generate a report that displays each campaign along with the total revenue generated before and after the campaign. 
 
 Diwali Campaign Impact:
 
-The Diwali campaign had a substantial impact on total revenue generation. Before the campaign, the total revenue stood at $82,573,759. However, after the campaign, there was a significant increase, and the total revenue surged to $207,456,209.
+The Diwali campaign had a substantial impact on total revenue generation. Before the campaign, the total revenue stood at ₹82,573,759. However, after the campaign, there was a significant increase, and the total revenue surged to ₹207,456,209.
+
 This indicates that the Diwali campaign was highly successful in driving sales and revenue growth, showcasing its effectiveness in capturing consumer attention and boosting overall business performance.
 
 Sankranti Campaign Impact:
 
-Similarly, the Sankranti campaign also demonstrated a positive impact on total revenue. Before the Sankranti campaign, the total revenue was $58,127,429. After the campaign, there was a notable increase, and the total revenue reached $140,403,941.
+Similarly, the Sankranti campaign also demonstrated a positive impact on total revenue. Before the Sankranti campaign, the total revenue was ₹58,127,429. After the campaign, there was a notable increase, and the total revenue reached ₹140,403,941.
 The Sankranti campaign contributed to a significant uplift in revenue, reflecting its effectiveness in engaging customers and driving sales during the promotional period.
 
 Comparative Analysis:
@@ -178,14 +179,14 @@ Strategic Considerations:
 The success of both campaigns underscores the importance of well-executed and targeted promotional activities.
 Understanding the revenue impact of each campaign provides valuable insights for future planning, allowing for strategic decisions on resource allocation, campaign timing, and promotional strategies to maximize revenue growth.
 
-4. Produce a report that calculate the incremental sold quantity (ISU%) for each category during the Diwali campaign.
+4. Produce a report that calculates the incremental sold quantity (ISU%) for each category during the Diwali campaign.
 
 The ISU percentages for each category  during the Diwali campaign are as follows: Combo1 (152.37%), Home Appliances (86.81%), Home Care (53.69%), Personal Care (20.67%) while Grocery & Staples (8.26%)
-Combo1 have the highest ISU% of 152.37%, while Grocery & Staples ranks fifth with 8.26%.
+Combo1 has the highest ISU% of 152.37%, while Grocery & Staples ranks fifth with 8.26%.
 
 Combo1 Dominance:
 
-Combo1 emerges as the top-performing category during the Diwali campaign, boasting the highest Incremental Sold Quantity Percentage (ISU%) of 152.37%.
+Combo1 emerged as the top-performing category during the Diwali campaign, boasting the highest Incremental Sold Quantity Percentage (ISU%) of 152.37%.
 This indicates that Combo1 experienced a substantial increase in sold quantity during the Diwali campaign, showcasing its popularity and effectiveness in driving consumer engagement.
 
 Performance Variation Across Categories:
@@ -221,23 +222,23 @@ Consider introducing bundle deals or exclusive promotions for the Double Bedshee
 
 Atliq_Curtains (IR%: 255.34%):
 
-Atliq_Curtains secure a position in the top 5 with a noteworthy IR% of 255.34%.
+Atliq_Curtains secured a position in the top 5 with a noteworthy IR% of 255.34%.
 Focus on creating visually appealing displays and marketing materials for Curtains to enhance customer engagement. Consider introducing themed promotions or collaborations to increase the product's visibility.
 
 Atliq_Home_Essential_8_Product_Combo (IR%: 183.33%):
 
 While slightly lower in IR%, the Atliq_Home_Essential_8_Product_Combo maintains a solid performance at 183.33%.
-Explore avenues to upsell or cross-sell additional items within the Home Essential Combo, providing customers with a comprehensive solution and potentially increasing the average transaction value.6. What is the total revenue generated by all Atliq stores.
+Explore avenues to upsell or cross-sell additional items within the Home Essential Combo, providing customers with a comprehensive solution and potentially increasing the average transaction value.
 
 
 
-6. What is the total revenue generated by all Atliq stores.
+6. What is the total revenue generated by all Atliq stores?
 
-The total revenue generated by all Atliq stores reached an impressive 488,561,338, showcasing the substantial financial impact and overall success of Atliq stores during the specified period.
+The total revenue generated by all Atliq stores reached an impressive ₹488,561,338, showcasing the substantial financial impact and overall success of Atliq stores during the specified period.
 
 Impressive Financial Impact:
 
-The total revenue generated by all Atliq stores stands at a remarkable 488,561,338.
+The total revenue generated by all Atliq stores stands at a remarkable ₹488,561,338.
 This figure signifies the collective financial performance of Atliq stores during the specified period.
 
 Overall Success Indicator:
@@ -257,16 +258,16 @@ Strategic decisions related to product offerings, pricing, promotions, and custo
 
 Benchmarks for Success:
 
-The 488,561,338 revenue figure serves as a benchmark for assessing the success and growth of Atliq stores during the specified period.
+The ₹488,561,338 revenue figure serves as a benchmark for assessing the success and growth of Atliq stores during the specified period.
 It provides valuable insights for stakeholders, investors, and decision-makers to gauge the overall health and competitiveness of Atliq in the market.
 
-7. Whats is the total revenue generated by all Atliq stores before and after promotion and the percentage increase/decrease in revenue?
+7. What is the total revenue generated by all Atliq stores before and after promotion and the percentage increase/decrease in revenue?
 
-The combined total revenue generated by all Atliq stores experienced a substantial increase during the promotional period. The total revenue before promotions amounted to 140,701,188, and after the promotions, it significantly rose to 347,860,150. This reflects an impressive percentage increase of 247.23%, emphasizing the effectiveness of the promotional strategies in driving overall sales growth across Atliq stores.
+The combined total revenue generated by all Atliq stores experienced a substantial increase during the promotional period. The total revenue before promotions amounted to ₹140,701,188, and after the promotions, it significantly rose to ₹347,860,150. This reflects an impressive percentage increase of 247.23%, emphasizing the effectiveness of the promotional strategies in driving overall sales growth across Atliq stores.
 
 8. How many stores does Atliq Mart own?
 
-Number of Atliq Mart Stores:
+The number of Atliq Mart Stores:
 Atliq Mart owns a total of 50 stores distributed across various cities in the country.
 
 Atliq Mart's expansive retail presence, with 50 stores, signifies a substantial and widespread footprint in different cities. This broad geographical coverage suggests a strategic approach to catering to diverse consumer markets and tapping into various regional opportunities. The scale of operations across multiple locations positions Atliq Mart as a significant player in the retail sector, contributing to its overall market influence and potential for widespread consumer reach.
@@ -295,23 +296,23 @@ STORE PERFORMANCE ANALYSIS
 1. Which are the top 10 stores in terms of incremental revenue (IR) generated from promotions?
 --The following stores rank in the top ten for incremental revenue (IR) generated by promotions:
 
-1. STMYS-1 generated an additional revenue of 6,446,961.
-2. STCHE-4 generated an additional revenue of 6,317,711.
-3. STBLR-0 generated an additional revenue of 6,158,906.
-4. STBLR-7 generated an incremental revenue of 6,124,481.
-5. STBLR-6 generated an incremental revenue of 6,008,349.
-6. STCHE-7 generated 5,999,008 in incremental revenue.
-7. STMYS-3 generated 5,721,938 in additional revenue.
-8. STCHE-3 generated an additional revenue of 5,707,253.
-9. STCHE-6 generated 5,324,877 in additional revenue.
-10. STBLR-3 generated an incremental revenue of 5,209,263.
+1. STMYS-1 generated an additional revenue of ₹6,446,961.
+2. STCHE-4 generated an additional revenue of ₹6,317,711.
+3. STBLR-0 generated an additional revenue of ₹6,158,906.
+4. STBLR-7 generated an incremental revenue of ₹6,124,481.
+5. STBLR-6 generated incremental revenue of ₹6,008,349.
+6. STCHE-7 generated ₹5,999,008 in incremental revenue.
+7. STMYS-3 generated ₹5,721,938 in additional revenue.
+8. STCHE-3 generated an additional revenue of ₹5,707,253.
+9. STCHE-6 generated ₹5,324,877 in additional revenue.
+10. STBLR-3 generated incremental revenue of ₹5,209,263.
 
 Diverse Store Contributions:
 The top 10 stores, including STMYS-1, STCHE-4, and STBLR-0, showcase a diverse range of locations contributing significantly to incremental revenue.
 This diversity suggests that the promotional strategies were effective across various store types and locations.
 
 Significant Incremental Gains:
-Each store in the top 10 has generated substantial incremental revenue, with values ranging from 5,209,263 to 6,446,961.
+Each store in the top 10 has generated substantial incremental revenue, with values ranging from ₹5,209,263 to ₹6,446,961.
 The magnitude of these additional revenues underscores the success of promotional activities in driving increased sales and customer engagement.
 
 Consistent Performance:
@@ -324,7 +325,7 @@ The stores' ability to leverage promotions for revenue growth highlights the imp
 
 These stores stand out for making significant contributions to incremental revenue from promotional activities.
 
-2. Which are the bottom 10 stores when it comes to incremental sold unit (ISU) during the promotional period?
+2. Which are the bottom 10 stores when it comes to incremental sold units (ISU) during the promotional period?
 -- The following stores are positioned in the bottom ten based on incremental sold units (ISU):
 1. STMLR-0: 1,952 units
 2. STVSK-3: 2,209 units
@@ -362,30 +363,30 @@ These stores are ranked towards the bottom in terms of incremental sold units, r
 -- 3a. What are the 10 stores that generated the highest revenue during the Diwali campaign, and in which cities are they situated?
 Here are the top 10 stores that generated the highest revenue during the Diwali campaign:
 
-1. Store: STCHE-4, City: Chennai, Revenue: 8,265,934
-2. Store: STMYS-1, City: Mysuru, Revenue: 7,986,655
-3. Store: STBLR-0, City: Bengaluru, Revenue: 7,970,547
-4. Store: STBLR-7, City: Bengaluru, Revenue: 7,566,279
-5. Store: STMYS-3, City: Mysuru, Revenue: 7,527,696
-6. Store: STCHE-7, City: Chennai, Revenue: 7,447,971
-7. Store: STBLR-3, City: Bengaluru, Revenue: 7,437,204
-8. Store: STCHE-6, City: Chennai, Revenue: 7,396,184
-9. Store: STBLR-6, City: Bengaluru, Revenue: 7,387,109
-10. Store: STBLR-8, City: Bengaluru, Revenue: 7,376,144
+1. Store: STCHE-4, City: Chennai, Revenue: ₹8,265,934
+2. Store: STMYS-1, City: Mysuru, Revenue: ₹7,986,655
+3. Store: STBLR-0, City: Bengaluru, Revenue: ₹7,970,547
+4. Store: STBLR-7, City: Bengaluru, Revenue: ₹7,566,279
+5. Store: STMYS-3, City: Mysuru, Revenue: ₹7,527,696
+6. Store: STCHE-7, City: Chennai, Revenue: ₹7,447,971
+7. Store: STBLR-3, City: Bengaluru, Revenue: ₹7,437,204
+8. Store: STCHE-6, City: Chennai, Revenue: ₹7,396,184
+9. Store: STBLR-6, City: Bengaluru, Revenue: ₹7,387,109
+10. Store: STBLR-8, City: Bengaluru, Revenue: ₹7,376,144
 
 -- 3b. What are the 10 stores that generated the highest revenue during the Sankranti campaign, and in which cities are they situated?
 Here are the top 10 stores that generated the highest revenue during the Sankranti campaign:
 
-1. Store: STMYS-1, City: Mysuru, Revenue: 5,538,872
-2. Store: STBLR-6, City: Bengaluru, Revenue: 5,429,264
-3. Store: STBLR-7, City: Bengaluru, Revenue: 5,268,674
-4. Store: STCHE-4, City: Chennai, Revenue: 5,165,497
-5. Store: STBLR-5, City: Bengaluru, Revenue: 5,112,159
-6. Store: STCHE-7, City: Chennai, Revenue: 5,066,907
-7. Store: STCHE-6, City: Chennai, Revenue: 5,064,667
-8. Store: STBLR-0, City: Bengaluru, Revenue: 4,990,489
-9. Store: STCHE-3, City: Chennai, Revenue: 4,943,048
-10. Store: STHYD-2, City: Hyderabad, Revenue: 4,895,896
+1. Store: STMYS-1, City: Mysuru, Revenue: ₹5,538,872
+2. Store: STBLR-6, City: Bengaluru, Revenue: ₹5,429,264
+3. Store: STBLR-7, City: Bengaluru, Revenue: ₹5,268,674
+4. Store: STCHE-4, City: Chennai, Revenue: ₹5,165,497
+5. Store: STBLR-5, City: Bengaluru, Revenue: ₹5,112,159
+6. Store: STCHE-7, City: Chennai, Revenue: ₹5,066,907
+7. Store: STCHE-6, City: Chennai, Revenue: ₹5,064,667
+8. Store: STBLR-0, City: Bengaluru, Revenue: ₹4,990,489
+9. Store: STCHE-3, City: Chennai, Revenue: ₹4,943,048
+10. Store: STHYD-2, City: Hyderabad, Revenue: ₹4,895,896
 
 We can draw insights into the performance of stores by city during the Diwali and Sankranti campaigns based on the information provided.
 
@@ -406,26 +407,26 @@ Both campaigns showed Bengaluru and Chennai stores dominating the top rankings, 
 Despite only having one store in the top ten, the revenue generated by Mysuru stores during both campaigns suggests a significant contribution to overall performance.
 Bengaluru consistently had more top-performing stores than other cities in both campaigns.
 
-These findings indicate that the cities of Bengaluru and Chennai are critical for revenue generation, and that there may be common characteristics or strategies used by stores in these cities that contribute to their consistent high performance. Exploring and leveraging these commonalities may improve the performance of stores in other locations.
+These findings indicate that the cities of Bengaluru and Chennai are critical for revenue generation and that there may be common characteristics or strategies used by stores in these cities that contribute to their consistently high performance. Exploring and leveraging these commonalities may improve the performance of stores in other locations.
 
 PROMOTION TYPE ANALYSIS 
 
 1. What are the top 2 promotion types that resulted in the highest incremental revenue?
 
-The promotion types that contributed the most to incremental revenue were Cashback, generating 122,643,000, and BOGOF, generating 69,316,990 in incremental revenue.
+The promotion types that contributed the most to incremental revenue were Cashback, generating ₹122,643,000, and BOGOF, generating ₹69,316,990 in incremental revenue.
 Cashback promotions significantly drove incremental revenue, suggesting that such promotions resonate well with customers and encourage higher spending.
 BOGOF promotions also played a crucial role in revenue generation, indicating the effectiveness of buy-one-get-one-free offers.
    
 
-2.What are the bottom 2 promotion type in terms of their impact on incremental sold unit (ISU).
+2. What are the bottom 2 promotion types in terms of their impact on incremental sold units (ISU)?
 
  Examining the impact on incremental sold units (ISU), the two promotion types with the least influence were:
  -25% OFF, showing a decrease of 5,717 units.
  -50% OFF, indicating a modest increase of 6,931 units.
 
-Promotions like 25% OFF had a negative impact on incremental sold units, possibly indicating a reduced interest or effectiveness in terms of driving sales, While 50% OFF promotions showed a modest increase in sold units, the impact was relatively lower compared to the top-performing promotion types. Consideration may be given to refining the strategy for this promotion type or exploring alternatives with higher impact.
+Promotions like 25% OFF hurt incremental sold units, possibly indicating a reduced interest or effectiveness in terms of driving sales, While 50% OFF promotions showed a modest increase in sold units, the impact was relatively lower compared to the top-performing promotion types. Consideration may be given to refining the strategy for this promotion type or exploring alternatives with higher impact.
 
-3. Is there a significanct difference in performance of discount-based promotions versus BOGOF (Buy One Get One Free) or cash-back promotions?
+3. Is there a significant difference in the performance of discount-based promotions versus BOGOF (Buy One Get One Free) or cash-back promotions?
 --The distribution of incremental revenue percentages associated with various promotion types is as follows:
 
 BOGOF: Achieved an impressive incremental revenue percentage of 267.35%.
@@ -470,12 +471,12 @@ ISU: Negative at -5,717 units, signaling a decrease in sales.
 Revenue Percentage: Negative at -12.81%, indicating potential margin erosion.
 25% OFF shows a negative impact on both ISU and revenue percentage, suggesting a need for reassessment or optimization to align with business goals.
 
-In conclusion, BOGOF and 500 Cashback promotions stand out as effective strategies for striking a balance between incremental sales and healthy profit margins. 
+In conclusion, BOGOF and ₹500 Cashback promotions stand out as effective strategies for striking a balance between incremental sales and healthy profit margins. 
 
 
 PRODUCT AND CATEGORY ANALYSIS
 
-1. Produce a report that calculate the incremental revenue percentage (IR%) for each category during the Diwali and Sankranti campaign.
+1. Produce a report that calculates the incremental revenue percentage (IR%) for each category during the Diwali and Sankranti campaigns.
 -- The report calculates each product category's Incremental Revenue Percentage (IR%) during the Diwali and Sankranti campaigns. Here are the findings from the data:
 
 Home Appliances:
@@ -511,23 +512,23 @@ Overall, these findings provide a comparative analysis of how various product ca
 The data provided demonstrates how promotional campaigns increased sales in specific product categories:
 
 Combo1:
-Sales: 189,540,000
+Sales: ₹189,540,000
 Combo1 experienced the most substantial lift in sales among the listed categories, indicating that the promotional strategies significantly boosted sales for this product grouping.
 
 Grocery & Staples:
-Sales: 95,615,960
+Sales: ₹95,615,960
 Grocery & Staples also witnessed a considerable increase in sales, reflecting the effectiveness of promotions in driving consumer engagement and purchases within this category.
 
 Home Appliances:
-Sales: 34,633,500
+Sales: ₹34,633,500
 Home Appliances showed a notable lift in sales, suggesting that promotional activities positively influenced consumer interest and contributed to increased purchases within this category.
 
 Home Care:
-Sales: 24,944,175
+Sales: ₹24,944,175
 Home Care products experienced a significant lift in sales, indicating that promotional campaigns played a key role in driving consumer demand for items in this category.
 
 Personal Care:
-Sales: 3,126,515
+Sales: ₹3,126,515
 While Personal Care saw a lift in sales, the increase was comparatively smaller than other categories. This suggests that promotional efforts had a moderate impact on driving sales within this product category.
 
 In summary, Combo1, Grocery & Staples, and Home Appliances emerged as the top-performing categories with substantial lifts in sales, showcasing the effectiveness of promotional campaigns in driving consumer engagement and boosting purchases for these product categories.
@@ -538,83 +539,83 @@ In summary, Combo1, Grocery & Staples, and Home Appliances emerged as the top-pe
 The following are the product rankings based on revenue generated after promotions:
  
 Atliq_Home_Essential_8_Product_Combo:
-Revenue After Promotions: 189,540,000
+Revenue After Promotions: ₹189,540,000
 The Atliq_Home_Essential_8_Product_Combo stands out as the top performer in revenue generation post-promotions, showcasing its strong resonance with consumers and effectiveness in driving sales during promotional periods.
 
 Atliq_Sonamasuri_Rice (10KG):
-Revenue After Promotions: 45,782,100
+Revenue After Promotions: ₹45,782,100
 Atliq_Sonamasuri_Rice (10KG) secures a significant position in revenue, indicating its popularity and positive response to promotional activities, making it a noteworthy product within the lineup.
 
 Atliq_Farm_Chakki_Atta (1KG):
-Revenue After Promotions: 29,100,500
+Revenue After Promotions: ₹29,100,500
 Atliq_Farm_Chakki_Atta (1KG) demonstrates robust performance in revenue generation post-promotions, emphasizing its appeal and consumer preference during promotional periods.
 
 Atliq_waterproof_Immersion_Rod:
-Revenue After Promotions: 24,158,700
+Revenue After Promotions: ₹24,158,700
 The Atliq_waterproof_Immersion_Rod exhibits solid revenue figures after promotions, highlighting its effectiveness in capturing consumer attention and driving sales during promotional campaigns.
 
 Atliq_Double_Bedsheet_set:
-Revenue After Promotions: 17,919,020
+Revenue After Promotions: ₹17,919,020
 Atliq_Double_Bedsheet_set performs well in revenue after promotions, indicating its popularity and success in enticing consumers during promotional events.
 
 Atliq_Suflower_Oil (1L):
-Revenue After Promotions: 14,310,708
+Revenue After Promotions: ₹14,310,708
 Atliq_Suflower_Oil (1L) shows strong revenue performance post-promotions, suggesting its appeal to consumers and effectiveness in capitalizing on promotional opportunities.
 
 Atliq_High_Glo_15W_LED_Bulb:
-Revenue After Promotions: 10,474,800
+Revenue After Promotions: ₹10,474,800
 Atliq_High_Glo_15W_LED_Bulb contributes significantly to post-promotion revenue, indicating its success in attracting consumers and driving sales during promotional periods.
 
 Atliq_Masoor_Dal (1KG):
-Revenue After Promotions: 6,422,652
+Revenue After Promotions: ₹6,422,652
 Atliq_Masoor_Dal (1KG) demonstrates respectable revenue after promotions, showcasing its appeal and ability to leverage promotional activities to boost sales.
 
 Atliq_Curtains:
-Revenue After Promotions: 4,895,100
+Revenue After Promotions: ₹4,895,100
 Atliq_Curtains secures notable revenue after promotions, indicating consumer interest and positive response to promotional efforts within this product category.
 
 Atliq_Fusion_Container_Set_of_3:
-Revenue After Promotions:1,855,880
+Revenue After Promotions: ₹1,855,880
 Atliq_Fusion_Container_Set_of_3, while lower in revenue compared to other products, still showcases a positive response to promotions, contributing to post-promotion revenue.
 
 Atliq_Doodh_Kesar_Body_Lotion (200ML):
-Revenue After Promotions:1,334,180
+Revenue After Promotions: ₹1,334,180
 Atliq_Doodh_Kesar_Body_Lotion (200ML) contributes to post-promotion revenue, indicating consumer interest and success in leveraging promotional activities for increased sales.
 
 Atliq_Body_Milk_Nourishing_Lotion (120ML):
-Revenue After Promotions: 671,830
+Revenue After Promotions: ₹671,830
 Atliq_Body_Milk_Nourishing_Lotion (120ML) demonstrates a positive response to promotions, contributing to post-promotion revenue within its product category.
 
 Atliq_Lime_Cool_Bathing_Bar (125GM):
-Revenue After Promotions: 637,360
+Revenue After Promotions: ₹637,360
 Atliq_Lime_Cool_Bathing_Bar (125GM) contributes to post-promotion revenue, reflecting consumer engagement and successful promotional strategies.
 
 Atliq_Cream_Beauty_Bathing_Soap (125GM):
-Revenue After Promotions: 483,145
+Revenue After Promotions: ₹483,145
 Atliq_Cream_Beauty_Bathing_Soap (125GM) shows a positive response to promotions, contributing to post-promotion revenue and indicating consumer interest.
 
 Atliq_Scrub_Sponge_For_Dishwash:
-Revenue After Promotions: 274,175
+Revenue After Promotions: ₹274,175
 Atliq_Scrub_Sponge_For_Dishwash, while lower in revenue, still demonstrates a response to promotions, contributing to post-promotion revenue within its product category.
 
 
 Top Performing Products:
-Atliq_Home_Essential_8_Product_Combo stands out as the top performer (189,540,000), demonstrating a significant lift in sales, indicating its strong appeal and effectiveness in driving consumer engagement during promotional periods.
+Atliq_Home_Essential_8_Product_Combo stands out as the top performer (₹189,540,000), demonstrating a significant lift in sales, indicating its strong appeal and effectiveness in driving consumer engagement during promotional periods.
 
-Atliq_Sonamasuri_Rice (10KG) secures a notable position in revenue (45,782,100), reflecting its popularity and positive response to promotional activities, making it a standout product within the assortment.
+Atliq_Sonamasuri_Rice (10KG) secures a notable position in revenue (₹45,782,100), reflecting its popularity and positive response to promotional activities, making it a standout product within the assortment.
 
-Atliq_Farm_Chakki_Atta (1KG) (29,100,500) demonstrates robust performance in revenue generation post-promotions, emphasizing its appeal and consumer preference during promotional periods.
+Atliq_Farm_Chakki_Atta (1KG) (₹29,100,500) demonstrates robust performance in revenue generation post-promotions, emphasizing its appeal and consumer preference during promotional periods.
 
 Products with Room for Improvement:
 
 Some products demonstrate lower revenue figures, indicating a need for potential adjustments or enhanced promotional strategies to boost sales:
 
-Atliq_Fusion_Container_Set_of_3- (1,855,880)
-Atliq_Doodh_Kesar_Body_Lotion (200ML)- (1,334,180)
-Atliq_Body_Milk_Nourishing_Lotion (120ML)- (671,830)
-Atliq_Lime_Cool_Bathing_Bar (125GM)- (637,360)
-Atliq_Cream_Beauty_Bathing_Soap (125GM)- (483,145)
-Atliq_Scrub_Sponge_For_Dishwash- (274,175)
+Atliq_Fusion_Container_Set_of_3- (₹1,855,880)
+Atliq_Doodh_Kesar_Body_Lotion (200ML)- (₹1,334,180)
+Atliq_Body_Milk_Nourishing_Lotion (120ML)- (₹671,830)
+Atliq_Lime_Cool_Bathing_Bar (125GM)- (₹637,360)
+Atliq_Cream_Beauty_Bathing_Soap (125GM)- (₹483,145)
+Atliq_Scrub_Sponge_For_Dishwash- (₹274,175)
 
 The top-performing products can serve as benchmarks for success, while those with room for improvement present opportunities for targeted adjustments to enhance their effectiveness in driving sales.
 
