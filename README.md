@@ -550,18 +550,6 @@ While promotions have a positive impact on both sales volume and
 revenue, the correlation suggests moderate effectiveness compared to
 other categories.
 
-## Data Visualization
-
-After much insight, it was time to visualize the data using TABLEAU. The dashboards also display key metrics and indicators, such as the total revenue, the percentage increase in revenue after promotions, and the promotion effectiveness. The dashboards help you to understand the trends and patterns in the data, and to identify the best-performing and worst-performing promotions.
-
-![ATLIQ MART DIWALI AND SANKRANTI PROMOTION ANALYSIS 2 (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e80b3a97-f22f-4adb-98b3-f0293b86258e/f37639a9-5d71-43ac-aaac-10c99288e874/ATLIQ_MART_DIWALI_AND_SANKRANTI_PROMOTION_ANALYSIS_3_(1).png)
-
-![ATLIQ MART DIWALI AND SANKRANTI PROMOTION ANALYSIS 2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e80b3a97-f22f-4adb-98b3-f0293b86258e/bbbca9f9-c9f4-49b0-8a7f-73cd617b26da/ATLIQ_MART_DIWALI_AND_SANKRANTI_PROMOTION_ANALYSIS_2.png)
-
-![ATLIQ MART DIWALI AND SANKRANTI PROMOTION ANALYSIS (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e80b3a97-f22f-4adb-98b3-f0293b86258e/ca95aa82-c3b0-4ab4-8ed7-d756d9ee0439/ATLIQ_MART_DIWALI_AND_SANKRANTI_PROMOTION_ANALYSIS_(1).png)
-
-![ATLIQ MART DIWALI AND SANKRANTI PROMOTION ANALYSIS 4 (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/e80b3a97-f22f-4adb-98b3-f0293b86258e/ec4eb4f5-6266-46a4-8ba1-510389acde9a/ATLIQ_MART_DIWALI_AND_SANKRANTI_PROMOTION_ANALYSIS_4_(1).png)
-
 ## Recommendations:
 
 **Store Optimization:** Leverage successful strategies from Bengaluru and Chennai stores for potential expansion. 
